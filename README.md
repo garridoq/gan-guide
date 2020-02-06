@@ -14,17 +14,17 @@ Here is a list of present notebooks and what you will find in them:
 
 |Notebook name| Content |
 |---|---|
-|* GAN *| Implementation of the original GAN paper|
-|* Conditional GAN *| Implementation of conditional GAN |
-|*Strong X *| Example of having either a strong generator or a strong discriminator |
-|* DCGAN *| Implementation of DCGAN |
-|* Conditional DCGAN *| Implementation of conditional DCGAN |
-|* Kernel size of NxN *| Use of various kernel sizes |
-|* Minibatch discrimination *| Implementation of minibatch discrimination |
-|* Experience replau *| Implementation of experience replay |
-|* Noisy labels *| Implementation of noisy labels |
-|* Virtual Batch Normalization *| Implementation of Virtual Batch Normalization |
-|* WGAN with gradient penalty *| Implementation of Wasserstein GAN with gradient penalty |
+|*GAN*| Implementation of the original GAN paper|
+|*Conditional GAN*| Implementation of conditional GAN |
+|*Strong X*| Example of having either a strong generator or a strong discriminator |
+|*DCGAN*| Implementation of DCGAN |
+|*Conditional DCGAN*| Implementation of conditional DCGAN |
+|*Kernel size of NxN*| Use of various kernel sizes |
+|*Minibatch discrimination*| Implementation of minibatch discrimination |
+|*Experience replay*| Implementation of experience replay |
+|*Noisy labels*| Implementation of noisy labels |
+|*Virtual Batch Normalization*| Implementation of Virtual Batch Normalization |
+|*WGAN with gradient penalty*| Implementation of Wasserstein GAN with gradient penalty |
 
 ## Technology used
 
